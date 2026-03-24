@@ -1,2 +1,2 @@
-force A 0 0ns, 0 20ns, 1 40ns, 1 60ns, 0 80ns, 1 100ns, 0 120ns;
-force B 0 0ns, 1 20ns, 1 40ns, 0 60ns, 0 80ns, 1 100ns, 0 120ns;
+force A 0 0ns, 1 15ns, 1 35ns, 0 55ns, 0 75ns, 1 95ns;
+force B 0 0ns, 0 15ns, 1 35ns, 1 55ns, 0 75ns, 0 95ns;
